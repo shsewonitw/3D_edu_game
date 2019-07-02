@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 01b9a6924a6421149b05e9641b8a6792
+timeCreated: 1460928382
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bar
+    100002: Body
+    100004: BodyGroup
+    100006: Camera
+    100008: Cylinder1
+    100010: Cylinder2
+    100012: Cylinder3
+    100014: Cylinder4
+    100016: Lamp
+    100018: //RootNode
+    400000: Bar
+    400002: Body
+    400004: BodyGroup
+    400006: Camera
+    400008: Cylinder1
+    400010: Cylinder2
+    400012: Cylinder3
+    400014: Cylinder4
+    400016: Lamp
+    400018: //RootNode
+    2300000: Bar
+    2300002: Body
+    2300004: Cylinder1
+    2300006: Cylinder2
+    2300008: Cylinder3
+    2300010: Cylinder4
+    3300000: Bar
+    3300002: Body
+    3300004: Cylinder1
+    3300006: Cylinder2
+    3300008: Cylinder3
+    3300010: Cylinder4
+    4300000: Body
+    4300002: Cylinder1
+    4300004: Bar
+    7400000: BodyGroup|EmptyAction
+    7400002: BodyGroup|TorusAction.003
+    7400004: Body|EmptyAction
+    7400006: Body|TorusAction.003
+    7400008: Cylinder1|EmptyAction
+    7400010: Cylinder1|TorusAction.003
+    7400012: Cylinder2|EmptyAction
+    7400014: Cylinder2|TorusAction.003
+    7400016: Cylinder3|EmptyAction
+    7400018: Cylinder3|TorusAction.003
+    7400020: Cylinder4|EmptyAction
+    7400022: Cylinder4|TorusAction.003
+    7400024: Bar|EmptyAction
+    7400026: Bar|TorusAction.003
+    7400028: Lamp|EmptyAction
+    7400030: Lamp|TorusAction.003
+    7400032: Camera|EmptyAction
+    7400034: Camera|TorusAction.003
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

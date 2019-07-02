@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: e235f4164e81c2a42b2edc3fc16e5c30
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: director_body
+    100004: director_hair
+    100006: Esqueleto:Character2_Head
+    100008: Esqueleto:Character2_Hips
+    100010: Esqueleto:Character2_LeftArm
+    100012: Esqueleto:Character2_LeftFoot
+    100014: Esqueleto:Character2_LeftForeArm
+    100016: Esqueleto:Character2_LeftHand
+    100018: Esqueleto:Character2_LeftHandIndex1
+    100020: Esqueleto:Character2_LeftHandIndex2
+    100022: Esqueleto:Character2_LeftHandIndex3
+    100024: Esqueleto:Character2_LeftHandIndex4
+    100026: Esqueleto:Character2_LeftHandMiddle1
+    100028: Esqueleto:Character2_LeftHandMiddle2
+    100030: Esqueleto:Character2_LeftHandMiddle3
+    100032: Esqueleto:Character2_LeftHandMiddle4
+    100034: Esqueleto:Character2_LeftHandPinky1
+    100036: Esqueleto:Character2_LeftHandPinky2
+    100038: Esqueleto:Character2_LeftHandPinky3
+    100040: Esqueleto:Character2_LeftHandPinky4
+    100042: Esqueleto:Character2_LeftHandRing1
+    100044: Esqueleto:Character2_LeftHandRing2
+    100046: Esqueleto:Character2_LeftHandRing3
+    100048: Esqueleto:Character2_LeftHandRing4
+    100050: Esqueleto:Character2_LeftHandThumb1
+    100052: Esqueleto:Character2_LeftHandThumb2
+    100054: Esqueleto:Character2_LeftHandThumb3
+    100056: Esqueleto:Character2_LeftHandThumb4
+    100058: Esqueleto:Character2_LeftLeg
+    100060: Esqueleto:Character2_LeftShoulder
+    100062: Esqueleto:Character2_LeftToeBase
+    100064: Esqueleto:Character2_LeftUpLeg
+    100066: Esqueleto:Character2_Neck
+    100068: Esqueleto:Character2_Reference
+    100070: Esqueleto:Character2_RightArm
+    100072: Esqueleto:Character2_RightFoot
+    100074: Esqueleto:Character2_RightForeArm
+    100076: Esqueleto:Character2_RightHand
+    100078: Esqueleto:Character2_RightHandIndex1
+    100080: Esqueleto:Character2_RightHandIndex2
+    100082: Esqueleto:Character2_RightHandIndex3
+    100084: Esqueleto:Character2_RightHandIndex4
+    100086: Esqueleto:Character2_RightHandMiddle1
+    100088: Esqueleto:Character2_RightHandMiddle2
+    100090: Esqueleto:Character2_RightHandMiddle3
+    100092: Esqueleto:Character2_RightHandMiddle4
+    100094: Esqueleto:Character2_RightHandPinky1
+    100096: Esqueleto:Character2_RightHandPinky2
+    100098: Esqueleto:Character2_RightHandPinky3
+    100100: Esqueleto:Character2_RightHandPinky4
+    100102: Esqueleto:Character2_RightHandRing1
+    100104: Esqueleto:Character2_RightHandRing2
+    100106: Esqueleto:Character2_RightHandRing3
+    100108: Esqueleto:Character2_RightHandRing4
+    100110: Esqueleto:Character2_RightHandThumb1
+    100112: Esqueleto:Character2_RightHandThumb2
+    100114: Esqueleto:Character2_RightHandThumb3
+    100116: Esqueleto:Character2_RightHandThumb4
+    100118: Esqueleto:Character2_RightLeg
+    100120: Esqueleto:Character2_RightShoulder
+    100122: Esqueleto:Character2_RightToeBase
+    100124: Esqueleto:Character2_RightUpLeg
+    100126: Esqueleto:Character2_Spine
+    100128: Esqueleto:Character2_Spine1
+    100130: Esqueleto:Character2_Spine2
+    400000: //RootNode
+    400002: director_body
+    400004: director_hair
+    400006: Esqueleto:Character2_Head
+    400008: Esqueleto:Character2_Hips
+    400010: Esqueleto:Character2_LeftArm
+    400012: Esqueleto:Character2_LeftFoot
+    400014: Esqueleto:Character2_LeftForeArm
+    400016: Esqueleto:Character2_LeftHand
+    400018: Esqueleto:Character2_LeftHandIndex1
+    400020: Esqueleto:Character2_LeftHandIndex2
+    400022: Esqueleto:Character2_LeftHandIndex3
+    400024: Esqueleto:Character2_LeftHandIndex4
+    400026: Esqueleto:Character2_LeftHandMiddle1
+    400028: Esqueleto:Character2_LeftHandMiddle2
+    400030: Esqueleto:Character2_LeftHandMiddle3
+    400032: Esqueleto:Character2_LeftHandMiddle4
+    400034: Esqueleto:Character2_LeftHandPinky1
+    400036: Esqueleto:Character2_LeftHandPinky2
+    400038: Esqueleto:Character2_LeftHandPinky3
+    400040: Esqueleto:Character2_LeftHandPinky4
+    400042: Esqueleto:Character2_LeftHandRing1
+    400044: Esqueleto:Character2_LeftHandRing2
+    400046: Esqueleto:Character2_LeftHandRing3
+    400048: Esqueleto:Character2_LeftHandRing4
+    400050: Esqueleto:Character2_LeftHandThumb1
+    400052: Esqueleto:Character2_LeftHandThumb2
+    400054: Esqueleto:Character2_LeftHandThumb3
+    400056: Esqueleto:Character2_LeftHandThumb4
+    400058: Esqueleto:Character2_LeftLeg
+    400060: Esqueleto:Character2_LeftShoulder
+    400062: Esqueleto:Character2_LeftToeBase
+    400064: Esqueleto:Character2_LeftUpLeg
+    400066: Esqueleto:Character2_Neck
+    400068: Esqueleto:Character2_Reference
+    400070: Esqueleto:Character2_RightArm
+    400072: Esqueleto:Character2_RightFoot
+    400074: Esqueleto:Character2_RightForeArm
+    400076: Esqueleto:Character2_RightHand
+    400078: Esqueleto:Character2_RightHandIndex1
+    400080: Esqueleto:Character2_RightHandIndex2
+    400082: Esqueleto:Character2_RightHandIndex3
+    400084: Esqueleto:Character2_RightHandIndex4
+    400086: Esqueleto:Character2_RightHandMiddle1
+    400088: Esqueleto:Character2_RightHandMiddle2
+    400090: Esqueleto:Character2_RightHandMiddle3
+    400092: Esqueleto:Character2_RightHandMiddle4
+    400094: Esqueleto:Character2_RightHandPinky1
+    400096: Esqueleto:Character2_RightHandPinky2
+    400098: Esqueleto:Character2_RightHandPinky3
+    400100: Esqueleto:Character2_RightHandPinky4
+    400102: Esqueleto:Character2_RightHandRing1
+    400104: Esqueleto:Character2_RightHandRing2
+    400106: Esqueleto:Character2_RightHandRing3
+    400108: Esqueleto:Character2_RightHandRing4
+    400110: Esqueleto:Character2_RightHandThumb1
+    400112: Esqueleto:Character2_RightHandThumb2
+    400114: Esqueleto:Character2_RightHandThumb3
+    400116: Esqueleto:Character2_RightHandThumb4
+    400118: Esqueleto:Character2_RightLeg
+    400120: Esqueleto:Character2_RightShoulder
+    400122: Esqueleto:Character2_RightToeBase
+    400124: Esqueleto:Character2_RightUpLeg
+    400126: Esqueleto:Character2_Spine
+    400128: Esqueleto:Character2_Spine1
+    400130: Esqueleto:Character2_Spine2
+    2300000: director_hair
+    3300000: director_hair
+    4300000: director_body
+    4300002: director_hair
+    9500000: //RootNode
+    13700000: director_body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: diretor_texture
+    second: {fileID: 2100000, guid: 720580353faa5db41bedc5c16a260eb5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Esqueleto:Character2_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Esqueleto:Character2_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: AnimeChibi-SchoolPack2-Director(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: director_body
+      parentName: AnimeChibi-SchoolPack2-Director(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_Reference
+      parentName: AnimeChibi-SchoolPack2-Director(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_Hips
+      parentName: Esqueleto:Character2_Reference
+      position: {x: -0, y: 0.16026731, z: 0.0136864055}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftUpLeg
+      parentName: Esqueleto:Character2_Hips
+      position: {x: -0.036037195, y: -0.017541751, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftLeg
+      parentName: Esqueleto:Character2_LeftUpLeg
+      position: {x: -0.00042543886, y: -0.067477874, z: -0.0045318003}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftFoot
+      parentName: Esqueleto:Character2_LeftLeg
+      position: {x: 0.0012630272, y: -0.054875433, z: -0.005857494}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftToeBase
+      parentName: Esqueleto:Character2_LeftFoot
+      position: {x: -0.0000000166893, y: -0.012212393, z: 0.02555241}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightUpLeg
+      parentName: Esqueleto:Character2_Hips
+      position: {x: 0.036037195, y: -0.017541751, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightLeg
+      parentName: Esqueleto:Character2_RightUpLeg
+      position: {x: 0.00042543886, y: -0.067477874, z: -0.0045318003}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightFoot
+      parentName: Esqueleto:Character2_RightLeg
+      position: {x: -0.0012630272, y: -0.054875433, z: -0.005857494}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightToeBase
+      parentName: Esqueleto:Character2_RightFoot
+      position: {x: 0.0000000166893, y: -0.012212393, z: 0.02555241}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_Spine
+      parentName: Esqueleto:Character2_Hips
+      position: {x: -0, y: 0.031414926, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_Spine1
+      parentName: Esqueleto:Character2_Spine
+      position: {x: -0, y: 0.038825322, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_Spine2
+      parentName: Esqueleto:Character2_Spine1
+      position: {x: -0, y: 0.038825322, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftShoulder
+      parentName: Esqueleto:Character2_Spine2
+      position: {x: -0.017943064, y: 0.01820034, z: -0.0014027965}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftArm
+      parentName: Esqueleto:Character2_LeftShoulder
+      position: {x: -0.032591276, y: -0.006157131, z: -0.0010520971}
+      rotation: {x: -0, y: 0.0044252444, z: -0.12280913, w: 0.99242043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftForeArm
+      parentName: Esqueleto:Character2_LeftArm
+      position: {x: -0.059240803, y: -0.019465141, z: -0.00070139766}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHand
+      parentName: Esqueleto:Character2_LeftForeArm
+      position: {x: -0.0642699, y: -0.015118999, z: 0.003156291}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandIndex1
+      parentName: Esqueleto:Character2_LeftHand
+      position: {x: -0.024744853, y: -0.002172451, z: 0.012867533}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandIndex2
+      parentName: Esqueleto:Character2_LeftHandIndex1
+      position: {x: -0.008572349, y: 0.00010879516, z: 0.003407433}
+      rotation: {x: 0.002413768, y: -0.0000861194, z: 0.0060749725, w: 0.99997866}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandIndex3
+      parentName: Esqueleto:Character2_LeftHandIndex2
+      position: {x: -0.0051839035, y: 0.0006014633, z: 0.0020677473}
+      rotation: {x: 0, y: 0.00009038181, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandIndex4
+      parentName: Esqueleto:Character2_LeftHandIndex3
+      position: {x: -0.0075459406, y: 0.0012360191, z: 0.0028711234}
+      rotation: {x: 0, y: -0.0007230544, z: -0, w: 0.99999976}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Esqueleto:Character2_LeftHandMiddle1
+      parentName: Esqueleto:Character2_LeftHand
+      position: {x: -0.026886558, y: -0.0016580772, z: 0.0062527605}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandMiddle2
+      parentName: Esqueleto:Character2_LeftHandMiddle1
+      position: {x: -0.008992481, y: -0.00039117812, z: 0.00096005795}
+      rotation: {x: 0.00474314, y: 0.0000022635795, z: 0.044427894, w: 0.9990013}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandMiddle3
+      parentName: Esqueleto:Character2_LeftHandMiddle2
+      position: {x: -0.0058540152, y: 0.0007398224, z: 0.000624938}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandMiddle4
+      parentName: Esqueleto:Character2_LeftHandMiddle3
+      position: {x: -0.008568611, y: 0.0013620185, z: 0.00091448304}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandPinky1
+      parentName: Esqueleto:Character2_LeftHand
+      position: {x: -0.025457459, y: -0.0020010758, z: -0.008152938}
+      rotation: {x: -0.009781324, y: 0.24217573, z: 0.022159332, w: 0.96993005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandPinky2
+      parentName: Esqueleto:Character2_LeftHandPinky1
+      position: {x: -0.0058297347, y: -0.000008201599, z: -0.0024834462}
+      rotation: {x: -0.0061774757, y: 0.00000010430813, z: 0.014501244, w: 0.9998758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandPinky3
+      parentName: Esqueleto:Character2_LeftHandPinky2
+      position: {x: -0.00409132, y: 0.0004994583, z: -0.0017428915}
+      rotation: {x: -0.0059888987, y: 0.00000017852338, z: 0.014058626, w: 0.9998833}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandPinky4
+      parentName: Esqueleto:Character2_LeftHandPinky3
+      position: {x: -0.0063905907, y: 0.0015830612, z: -0.0027223767}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandRing1
+      parentName: Esqueleto:Character2_LeftHand
+      position: {x: -0.02672161, y: -0.0022942733, z: -0.0011347223}
+      rotation: {x: -0.002069504, y: 0.11140129, z: 0.0206419, w: 0.99355894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandRing2
+      parentName: Esqueleto:Character2_LeftHandRing1
+      position: {x: -0.008276195, y: 0.00007469177, z: -0.0012327611}
+      rotation: {x: -0.0019342317, y: -0.00000011175871, z: 0.012985513, w: 0.9999138}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandRing3
+      parentName: Esqueleto:Character2_LeftHandRing2
+      position: {x: -0.0052669523, y: 0.00062616344, z: -0.0007845235}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandRing4
+      parentName: Esqueleto:Character2_LeftHandRing3
+      position: {x: -0.008162022, y: 0.0014445877, z: -0.0012157559}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandThumb1
+      parentName: Esqueleto:Character2_LeftHand
+      position: {x: -0.0071828268, y: -0.0022341919, z: 0.005383551}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandThumb2
+      parentName: Esqueleto:Character2_LeftHandThumb1
+      position: {x: -0.0061486815, y: 0.0009076309, z: 0.012154268}
+      rotation: {x: -0.004748456, y: -0.035959814, z: 0.00028314444, w: 0.99934196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandThumb3
+      parentName: Esqueleto:Character2_LeftHandThumb2
+      position: {x: -0.002474861, y: 0.000386219, z: 0.0075454353}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_LeftHandThumb4
+      parentName: Esqueleto:Character2_LeftHandThumb3
+      position: {x: -0.0030397987, y: 0.0011532783, z: 0.009267792}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_Neck
+      parentName: Esqueleto:Character2_Spine2
+      position: {x: -0, y: 0.03882534, z: -0.0017453121}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_Head
+      parentName: Esqueleto:Character2_Neck
+      position: {x: -0, y: 0.034930382, z: 0.0031997382}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: director_hair
+      parentName: Esqueleto:Character2_Head
+      position: {x: -0, y: -0.3430886, z: -0.0151408315}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightShoulder
+      parentName: Esqueleto:Character2_Spine2
+      position: {x: 0.017943064, y: 0.01820034, z: -0.0014027965}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightArm
+      parentName: Esqueleto:Character2_RightShoulder
+      position: {x: 0.032591276, y: -0.006157131, z: -0.0010520971}
+      rotation: {x: -0, y: -0.0044252444, z: 0.12280913, w: 0.99242043}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightForeArm
+      parentName: Esqueleto:Character2_RightArm
+      position: {x: 0.059240803, y: -0.019465141, z: -0.00070139766}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHand
+      parentName: Esqueleto:Character2_RightForeArm
+      position: {x: 0.0642699, y: -0.015118999, z: 0.003156291}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandIndex1
+      parentName: Esqueleto:Character2_RightHand
+      position: {x: 0.024744853, y: -0.002172451, z: 0.012867533}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandIndex2
+      parentName: Esqueleto:Character2_RightHandIndex1
+      position: {x: 0.008572349, y: 0.00010879516, z: 0.003407433}
+      rotation: {x: 0.0024137038, y: 0.00007548602, z: -0.00607501, w: 0.99997866}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandIndex3
+      parentName: Esqueleto:Character2_RightHandIndex2
+      position: {x: 0.0051839477, y: 0.0006014633, z: 0.0020676372}
+      rotation: {x: 0, y: 0.00009038473, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandIndex4
+      parentName: Esqueleto:Character2_RightHandIndex3
+      position: {x: 0.007544963, y: 0.0012360191, z: 0.002873691}
+      rotation: {x: 0, y: -0.0007230778, z: -0, w: 0.99999976}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Esqueleto:Character2_RightHandMiddle1
+      parentName: Esqueleto:Character2_RightHand
+      position: {x: 0.026886558, y: -0.0016580772, z: 0.0062527605}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandMiddle2
+      parentName: Esqueleto:Character2_RightHandMiddle1
+      position: {x: 0.008992481, y: -0.00039117812, z: 0.00096005795}
+      rotation: {x: 0.0047429046, y: -0.000007574912, z: -0.044427924, w: 0.9990014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandMiddle3
+      parentName: Esqueleto:Character2_RightHandMiddle2
+      position: {x: 0.0058540218, y: 0.0007398224, z: 0.00062487577}
+      rotation: {x: 0, y: 0.00009038473, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandMiddle4
+      parentName: Esqueleto:Character2_RightHandMiddle3
+      position: {x: 0.008568455, y: 0.0013620185, z: 0.00091594085}
+      rotation: {x: 0, y: -0.0007230778, z: -0, w: 0.99999976}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Esqueleto:Character2_RightHandPinky1
+      parentName: Esqueleto:Character2_RightHand
+      position: {x: 0.025457459, y: -0.0020010758, z: -0.008152938}
+      rotation: {x: -0.009781324, y: -0.24217573, z: -0.022159332, w: 0.96993005}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandPinky2
+      parentName: Esqueleto:Character2_RightHandPinky1
+      position: {x: 0.0058297347, y: -0.000008201599, z: -0.0024834462}
+      rotation: {x: -0.006177552, y: -0.0000054240227, z: -0.014501197, w: 0.9998758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandPinky3
+      parentName: Esqueleto:Character2_RightHandPinky2
+      position: {x: 0.0040913015, y: 0.0004994583, z: -0.001742935}
+      rotation: {x: -0.0059877723, y: 0.000090138885, z: -0.014059109, w: 0.9998833}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandPinky4
+      parentName: Esqueleto:Character2_RightHandPinky3
+      position: {x: 0.0063910536, y: 0.0015830612, z: -0.0027212894}
+      rotation: {x: 0, y: -0.0007230778, z: -0, w: 0.99999976}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Esqueleto:Character2_RightHandRing1
+      parentName: Esqueleto:Character2_RightHand
+      position: {x: 0.02672161, y: -0.0022942733, z: -0.0011347223}
+      rotation: {x: -0.002069504, y: -0.11140129, z: -0.0206419, w: 0.99355894}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandRing2
+      parentName: Esqueleto:Character2_RightHandRing1
+      position: {x: 0.008276195, y: 0.00007469177, z: -0.0012327611}
+      rotation: {x: -0.0019342992, y: -0.0000052005053, z: -0.012985495, w: 0.9999138}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandRing3
+      parentName: Esqueleto:Character2_RightHandRing2
+      position: {x: 0.005266944, y: 0.00062616344, z: -0.0007845795}
+      rotation: {x: 0, y: 0.00009038473, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandRing4
+      parentName: Esqueleto:Character2_RightHandRing3
+      position: {x: 0.008162228, y: 0.0014445877, z: -0.0012143672}
+      rotation: {x: 0, y: -0.0007230778, z: -0, w: 0.99999976}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Esqueleto:Character2_RightHandThumb1
+      parentName: Esqueleto:Character2_RightHand
+      position: {x: 0.0071828268, y: -0.0022341919, z: 0.005383551}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandThumb2
+      parentName: Esqueleto:Character2_RightHandThumb1
+      position: {x: 0.0061486815, y: 0.0009076309, z: 0.012154268}
+      rotation: {x: -0.004748456, y: 0.035959814, z: -0.00028314444, w: 0.99934196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandThumb3
+      parentName: Esqueleto:Character2_RightHandThumb2
+      position: {x: 0.002474861, y: 0.000386219, z: 0.0075454353}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Esqueleto:Character2_RightHandThumb4
+      parentName: Esqueleto:Character2_RightHandThumb3
+      position: {x: 0.0030397987, y: 0.0011532783, z: 0.009267792}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
